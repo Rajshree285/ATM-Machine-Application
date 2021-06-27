@@ -5,4 +5,4 @@ The main aim of this project is to built such a banking system which facilitates
 
 Steps to run the project:
 1. Download and save the code files in a single folder.
-2. Use command promt or any IDE (eclipse) to run the code.
+2. Use command promt or any IDE (eclipse or any other) to run the code.
